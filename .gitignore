@@ -2,3 +2,4 @@
 .env*
 *client*
 *.json
+bot.log
