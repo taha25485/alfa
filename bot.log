@@ -1,0 +1,11 @@
+nohup: ignoring input
+2026-04-28 03:38:41,065 - INFO - FFmpeg found and available
+2026-04-28 03:38:42,160 - INFO - Connected to network: 8453
+2026-04-28 03:38:42,178 - INFO - Blockchain manager initialized
+2026-04-28 03:38:42,178 - INFO - Contract: 0x24fB0134586d5aec98E4b57c9bBcE7B79302B837
+2026-04-28 03:38:42,178 - INFO - Signer: 0x019fb9E154DD71531e352F91254C9FBB93929465
+2026-04-28 03:38:42,218 - INFO - Bot starting...
+2026-04-28 03:38:42,737 - INFO - HTTP Request: POST https://api.telegram.org/bot8722711918:AAFtsUq0nUZoO5gQwXzrzV6T2vvoe1osvdo/getMe "HTTP/1.1 200 OK"
+2026-04-28 03:38:42,738 - INFO - Application started
+2026-04-28 03:38:42,856 - INFO - HTTP Request: POST https://api.telegram.org/bot8722711918:AAFtsUq0nUZoO5gQwXzrzV6T2vvoe1osvdo/deleteWebhook "HTTP/1.1 200 OK"
+2026-04-28 03:38:42,857 - WARNING - Fetching updates got a asyncio.CancelledError. Ignoring as this task may onlybe closed via `Application.stop`.
